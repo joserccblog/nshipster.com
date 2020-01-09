@@ -1,0 +1,17 @@
+url: https://nshipster.cn
+lang: zh-Hans
+
+description: >-
+  喜欢研究偏门技术，喜欢自动化编程，喜欢研究小软件提高编程效率
+timezone: Asia/Shanghai
+
+collections_dir: collections/zh-Hans
+collections:
+  authors:
+    output: true
+    permalink: /authors/:path/
+  translators:
+    output: true
+    permalink: /translators/:path/
+  books:
+    output: false

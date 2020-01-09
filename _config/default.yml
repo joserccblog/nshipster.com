@@ -1,22 +1,13 @@
 title: NSHipster
 permalink: /:title/
 
-twitter: 629523445
-facebook: 418545184954768
-issn: 2373-9800
-
 domains:
-  en: https://nshipster.com
-  es: https://nshipster.es
-  fr: https://nshipster.fr
-  ko: https://nshipster.co.kr
   zh-Hans: https://nshipster.cn
-  ru: https://nshipster.com.ru
 
 author:
-  name: Mattt
-  email: mattt@nshipster.com
-  url: /authors/mattt
+  name: 君赏
+  email: josercc@nshipster.com
+  url: /authors/josercc
 
 markdown: NSHipsterProcessor
 highlighter: rouge

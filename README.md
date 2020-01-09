@@ -52,7 +52,7 @@ corresponding to the NSHipster website you'd like to build
 You can run the site locally with the following commands:
 
 ```terminal
-$ bundle exec jekyll serve --config _config/default.yml,_config/$DOMAIN.yml --trace
+$ bundle exec jekyll serve --config _config/default.yml,_config/NSHipster.cn.yml --trace
 ```
 
 Now open the server address in a web browser to see a local copy of the site

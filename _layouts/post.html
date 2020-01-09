@@ -3,7 +3,6 @@ layout: default
 ---
 
 {% assign author = site.authors | where:"name", page.author | first %}
-{% assign translator = site.translators | where: "name", page.translator | first %}
 {% capture date_format %}{% t format.date %}{% endcapture %}
 
 <article role="article">

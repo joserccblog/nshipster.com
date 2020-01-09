@@ -1,5 +1,5 @@
 [submodule "collections/zh-Hans/_posts"]
 	path = collections/zh-Hans/_posts
-	url = https://github.com/NSHipster/articles-zh-Hans.git
+	url = https://github.com/joserccblog/articles-zh-Hans.git
 	branch = master
 	ignore = all
