@@ -25,6 +25,7 @@ group :jekyll_plugins do
   gem 'jekyll-include-cache'
   gem 'jekyll-tidy'
   gem 'jekyll-scholar'
+  #gem 'jekyll-admin'
 end
 
 group :development do
