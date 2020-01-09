@@ -23,7 +23,7 @@ First, clone the repository by opening Terminal.app
 and running the following commands:
 
 ```terminal
-$ git clone git@github.com:NSHipster/nshipster.com.git
+$ git clone git@github.com:joserccblog/nshipster.com.git
 $ cd nshipster.com
 ```
 
